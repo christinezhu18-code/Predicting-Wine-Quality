@@ -1,4 +1,4 @@
-# Wine-Quality-Analysis
+# Wine Quality Analysis
 
 ## Business Problem
 
