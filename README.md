@@ -8,7 +8,7 @@ The main goal is to measure how strongly these chemical variables relate to qual
 ## Data Set
 The dataset comprises two related files concerning red and white Portuguese “Vinho Verde” wines from northern Portugal. 
 
-11 physicochemical input variables:
+**11 physicochemical input variables:**
 1. fixed acidity
 2. volatile acidity
 3. citric acid
@@ -21,7 +21,7 @@ The dataset comprises two related files concerning red and white Portuguese “V
 10. sulphates
 11. alcohol
 
-1 output variable 
+**1 output variable:**
 1. quality (score from 0 - 10) 
 
 Dataset from [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/186/wine+quality)
