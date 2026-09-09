@@ -1,4 +1,4 @@
-# Wine Quality Analysis
+# Predicting Wine Quality from Physicochemical Properties: A Model Comparison
 
 ## Introduction
 This project analyzed whether physicochemical properties of wine can be used to predict wine quality scores, using three modeling approaches - linear regression, regression trees, and random forests.
